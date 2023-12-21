@@ -1,3 +1,29 @@
+/*
+* make pixel illustration on laptop
+* upload .PNG file to GitHub via CONTENT-CREATION repo.
+* post pixel illustration via mobile device
+
+
+tips for tracking important metrics: likes, follows, views, comments, etc.
+
+naming conventions
+
+checking-off media that have been posted
+
+planning future-media (to-do, in-progress, vaulted, complete, posted...)
+
+planning future series
+
+content bank (fan art of mk1, gow4, or original art) case studies? learning/teaching?--process, colors, etc.
+
+
+make templates for posts
+
+how to make regular posts, shorts, story posts synergize?
+
+* pixel illustration (see PIXEL-PLATFORMER for updates).
+---------
+
 0-1000 Instagram followers in 30 days:
 
 1. optimize your profile
@@ -13,7 +39,6 @@
 11. optimize your captions
 12. use ads strategically
 
-/**/
 
 (elaborate on 1-3)
 
@@ -29,8 +54,6 @@ POST REGULARLY:
     * consistency: aim for regular posting to keep your audience engaged. consistency helps build trust and keeps your content visible in your followers' feed
     * prioritize quality: it's better to have fewer high-quality posts than to compromise on the standard of your content 
 
-/**/
-
 (optimal posting schedule? # of hashtags?)
 
 POSTING SCHEDULE:
@@ -44,8 +67,6 @@ HASHTAGS:
     * create a branded hashtag: this can help create a community around your brand
     * update regularly: keep your hashtag strategy dynamic. regularly update and rotate your hashtags to avoid being shadowbanned
     
-/**/
-
 (list some keywords for hashtags/bio/captions)
 
 PIXEL ART KEYWORDS:
@@ -66,5 +87,5 @@ COMMUNITY-BUILDING KEYWORDS:
 BRANDED HASHTAGS:
     #wokju #wokjutsu #simplegeometry
 
-/**/
+*/
 
