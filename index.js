@@ -1,4 +1,37 @@
 /*
+
+(12-23-2023)
+- [ ] List of: game jam, job openings
+- [ ] Find: wp theme marketplaces
+- [ ] Python for QA
+- [ ] Game prototyping (1 hour)
+- [ ] Instagram pixel / post formatting
+
+Stretch goals, content (bringing value), cassandracarlos.com domain to codingcass.github.io, replace wordpress with ourcodingcorner.com (placeholder)
+
+Sift thru existing content in: Move bitch HQ 
+- [ ] Transfer Notion research / Meeting Minutes into GH Projects/Wiki
+- [ ] Edit Game-Development (and subsequently, Game-Jam) for understandable documentation (ie. building blocks, teaching is the best way to learn)
+
+Curry tofu with carrots on rice
+1. Curate pixel art/animations for pixel-platformer (+collect fnaart/ photography images/resources)
+
++Feed @sblmpxcodingcass
+- [ ] 1/3
+- [ ] 2/3
+- [ ] 3/3
+
+find/make Post examples for; feed, stories, shorts(reels?)
+
+batteries
+
+Revive ourcodingcorner?
+
+theme like gh wiki - for documentation, online book
+switch domain names
+
+(end of 12-23-2023)
+
 * make pixel illustration on laptop
 * upload .PNG file to GitHub via CONTENT-CREATION repo.
 * post pixel illustration via mobile device
